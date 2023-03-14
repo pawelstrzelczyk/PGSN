@@ -1,1 +1,1 @@
-# AI
+# Podstawy Głębokich Sieci Neuronowych
